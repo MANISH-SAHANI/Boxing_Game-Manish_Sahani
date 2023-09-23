@@ -1,0 +1,10 @@
+- I have downloaded the character and animations from Maximo
+- Using Unity's animator, I synced the character and animation
+- Tested some logic and added the character to the scenes. Minor adjustments were made to the animation of the character. Fixed a few bugs in animation. Tested the game again and made sure everything worked fine.
+WASD to move the character 
+C for Crouch.
+P for Punch.
+B for Burpee.
+- I have added a 3rd perspective camera that follows the player every time and with the mouse it zooms in and out as we move closer to it and further away from it.
+- The collider is added to the player's hand so as he can punch the enemy and perform the desired action, for example, when I punch the enemy, it attempts to dodge it.
+- Another enemy has been placed in the scene and is constantly hitting (punching) as the player gets closer and gets hit by the enemy player tries to dodge and that's work.
